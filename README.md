@@ -19,7 +19,7 @@ Admin can maintain a database of drivers. Drivers have to register on the portal
 # Cab Booking Application ER diagram
 ![cab_booking_3](https://user-images.githubusercontent.com/68966858/185020617-92914a9c-b5e2-4b3b-aa36-dc6a26454cba.jpeg)
 
-# Functions of Admin, Customer, Driver
+# Functions of Admin, Customer & Driver
 ## Through admin we can : 
 1. Can Log in/Log out of the system.<br>
 2. Admin can View/Edit/Delete taxis into the system.<br>
